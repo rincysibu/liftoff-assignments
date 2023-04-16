@@ -7,7 +7,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Our project is to create a website for "Summer Camp - Capstone". This site would be used to register kids for summer camps around them. This site would give information about the camps and allow to register for the camps. We would also be including features like sending emails on confirmation and payment acceptance. Also to be included in the site would be search using you current location with google maps.
+Our project is to create a website for "Summer Camp - Capstone". This site would be used to register kids for summer camps around the area. This site would give information about the camps and allow to register for the camps. We would also be including features like sending emails on confirmation and payment acceptance. Also to be included in the site would be search using you current location with google maps.
 ### Features
 Following features to be added for the project
 * Login
